@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">La Calculadora</string>
+    <string name="initial_display">Bienvinido a la calculadora!</string>
+</resources>
